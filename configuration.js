@@ -286,7 +286,7 @@ questions = [
     {
        "description": "Privacy is extremely important to me.",
         "weights": {
-            "Type 5)": 4
+            "Type 5": 4
         }
     },
     {
