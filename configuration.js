@@ -1,6 +1,6 @@
 settings = {
     "title": "Bunny's Enneagram Test",
-    "description": "This test will score the likelihood of each Enneagram type based on your answers. The highest results will be the most likely. The lowest results will be the least likely.<br><br> 0 → Not At All Likely<br>1 → Not So Likely<br>2 → Somewhat Likely<br>3 → Very Likely<br>4 → Extremely Likely",
+    "description": "This test will score the likelihood of each Enneagram type based on your answers. The highest results will be the most likely. The lowest results will be the least likely.<br><br> 0 → Not At All Accurate<br>1 → Not So Accurate<br>2 → Somewhat Accurate<br>3 → Very Accurate<br>4 → Extremely Accurate",
     "numOptions": 5
 }
 
