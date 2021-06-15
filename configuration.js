@@ -601,6 +601,5 @@ questions = [
         "weights": {
             "Type 9": 4
         }
-    },
-    {
+    }
 ]
