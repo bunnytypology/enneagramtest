@@ -13,92 +13,92 @@ questions = [
         }
     },
     {
-        "description": "When stressed I become moody and irrational.",
+        "description": "I have rigid standards.",
         "weights": {
             "Type 1": 4
         }
     },
     {
-        "description": "I am afraid of others seeing me make a mistake.",
+        "description": "Everything I do must be extremely accurate.",
         "weights": {
             "Type 1": 4
         }
     },
     {
-        "description": "I often feel guilty.",
+        "description": "My environment has to be organized in order for me to be able to relax.",
         "weights": {
             "Type 1": 4
         }
     },
     {
-        "description": "Almost everything can and should be improved.",
+        "description": "I am constantly trying to improve myself and others.",
         "weights": {
             "Type 1": 4
         }
     },
     {
-        "description": "I have strong opinions.",
+        "description": "I have a strong sense of purpose.",
         "weights": {
             "Type 1": 4
 
         }
     },
     {
-        "description": "I have issues letting go of my ideals.",
+        "description": "I exercise a lot of self control.",
         "weights": {
             "Type 1": 4
         }
     },
     {
-        "description": "I am picky.",
+        "description": "I am uncomfortable when faced with chaos or uncertainty.",
         "weights": {
             "Type 1": 4
         }
     },
     {
-       "description": "I care about doing things the right way.",
+       "description": "I have issues letting go of my ideals.",
         "weights": {
             "Type 1": 4
         }
     },
     {
-       "description": "I care about the principles behind what people do.",
+       "description": "The principles behind the actions are usually more important than the actions themselves.",
         "weights": {
             "Type 1": 4
         }
     },
     {
-       "description": "I actively suppress my feelings.",
+       "description": "I practice what I preach.",
         "weights": {
             "Type 1": 4
         }
     },
     {
-       "description": "When stressed I become aggressive and controlling.",
+       "description": "I know how to make others feel special.",
         "weights": {
             "Type 2": 4
         }
     },
     {
-      "description": "Others aren’t as considerate as I am.",
+      "description": "I am often self-sacrificing.",
         "weights": {
             "Type 2": 4
         }
     },
     {
-      "description": "I enjoy others being dependent on me.",
+      "description": "I feel comfortable with others being dependent on me.",
         "weights": {
             "Type 2": 4
         }
     },
     {
-      "description": "I am possessive.",
+      "description": "I must give love in order to receive it.",
         "weights": {
             "Type 2": 4
         }
     },
     {
-      "description": "Focusing on yourself is selfish.",
+      "description": "I offer my assistance to almost anyone who needs it.",
         "weights": {
             "Type 2": 4
         }
@@ -110,13 +110,13 @@ questions = [
         }
     },
     {
-      "description": "Others only like me for what I do for them.",
+      "description": "I have a hard time recognizing when others are draining me.",
         "weights": {
             "Type 2": 4
         }
     },
     {
-      "description": "I can easily see how others feel, but I have problems understanding my own emotions.",
+      "description": "I feel like it is my responsibility to take care of others.",
         "weights": {
             "Type 2": 4
         }
@@ -128,7 +128,7 @@ questions = [
         }
     },
     {
-      "description": "I give more than I get back.",
+      "description": "I tend to give more than I receive back.",
         "weights": {
             "Type 2": 4
         }
@@ -140,37 +140,37 @@ questions = [
         }
     },
     {
-      "description": "I can be shallow.",
+      "description": "I am adaptable.",
         "weights": {
             "Type 3": 4
         }
     },
     {
-       "description": "I put a lot of thought into my appearance.",
+       "description": "I can focus too much on my social image.",
         "weights": {
             "Type 3": 4
         }
     },
     {
-      "description": "I can change tactics easily to achieve my desired results.",
+      "description": "Others copying me is flattering; as long as they credit me.",
         "weights": {
             "Type 3": 4
         }
     },
     {
-     "description": "I am afraid of failure.",
+     "description": "I tend to only feel like I’ve done a good job if others validate me or my work.",
         "weights": {
             "Type 3": 4
         }
     },
     {
-      "description": "When I’m stressed I become more detached and passive.",
+      "description": "I enjoy being competitive.",
         "weights": {
             "Type 3": 4
         }
     },
     {
-       "description": "I am an overachiever.",
+       "description": "I have multiple personas I embody around different sets of people.",
         "weights": {
             "Type 3": 4
         }
@@ -182,25 +182,25 @@ questions = [
         }
     },
     {
-       "description": "I have issues discerning quantity vs quality.",
+       "description": "Being efficient comes easily to me.",
         "weights": {
             "Type 3": 4
         }
     },
     {
-       "description": "When I feel inferior to others it makes me want to push myself harder to succeed.",
+       "description": "I am good at networking and promoting myself to others.",
         "weights": {
             "Type 3": 4
         }
     },
     {
-       "description": "A lot of what I do is to attract more admiration or status.",
+       "description": "I find it difficult to describe myself without listing my accomplishments or reputations.",
         "weights": {
             "Type 3": 4
         }
     },
     {
-       "description": "Success is based on your achievements.",
+       "description": "I keep my failures a secret due to embarrassment.",
         "weights": {
             "Type 3": 4
         }
@@ -212,13 +212,13 @@ questions = [
         }
     },
     {
-       "description": "I have to process my feelings before I can do my duties.",
+       "description": "I feel comfortable in my emotions, even the negative ones.",
         "weights": {
             "Type 4": 4
         }
     },
     {
-       "description": "When stressed I become clingy and needy.",
+       "description": "I frequently feel envious of other people’s attributes.",
         "weights": {
             "Type 4": 4
         }
@@ -230,67 +230,67 @@ questions = [
         }
     },
     {
-       "description": "I feel like an outsider.",
+       "description": "I inherently feel like an outsider.",
         "weights": {
             "Type 4": 4
         }
     },
     {
-       "description": "I can easily recognize my own emotions.",
+       "description": "I am in touch with my emotions.",
         "weights": {
             "Type 4": 4
         }
     },
     {
-       "description": "I feel inferior to others.",
+       "description": "Self-authenticity is important to me.",
         "weights": {
             "Type 4": 4
         }
     },
     {
-       "description": "I secretly want others to seek me out and “rescue” me.",
+       "description": "Self expression is important to me.",
         "weights": {
             "Type 4": 4
         }
     },
     {
-       "description": "I enjoy dissecting my feelings and emotions on things.",
+       "description": "I can be self absorbed.",
         "weights": {
             "Type 4": 4
         }
     },
     {
-       "description": "I put off doing things unless I’m in the “mood” to do it.",
+       "description": "I tend to get upset when others copy what I do.",
         "weights": {
             "Type 4": 4
         }
     },
     {
-       "description": "I am very emotional.",
+       "description": "I instinctively notice how I am different from others.",
         "weights": {
             "Type 4": 4
         }
     },
     {
-       "description": "When stressed my thoughts become scattered and unfocused.",
+       "description": "I recharge by being alone and thinking about things in-depth.",
         "weights": {
             "Type 5": 4
         }
     },
     {
-       "description": "I care more about the process than the results.",
+       "description": "I minimize my needs in order to have more independence from others.",
         "weights": {
             "Type 5": 4
         }
     },
     {
-       "description": "Privacy is extremely important to me.",
+       "description": "Privacy is important to me.",
         "weights": {
             "Type 5": 4
         }
     },
     {
-       "description": "I research things whether or not they can be practically applied.",
+       "description": "I need to withdraw and detach in order to have a clearer view of a situation.",
         "weights": {
             "Type 5": 4
         }
@@ -302,25 +302,25 @@ questions = [
         }
     },
     {
-       "description": "Others would say I’m emotionally detached.",
+       "description": "The outside world is overwhelming.",
         "weights": {
             "Type 5": 4
         }
     },
     {
-       "description": "I tend to feel empty inside.",
+       "description": "I am instinctively aware of the resources other people drain from me.",
         "weights": {
             "Type 5": 4
         }
     },
     {
-       "description": "Others are too needy.",
+       "description": "I prefer minimalism, but I have a hard time throwing away what I deem to be sentimental items.",
         "weights": {
             "Type 5": 4
         }
     },
     {
-       "description": "I greatly value my independence.",
+       "description": "I can be slow to action.",
         "weights": {
             "Type 5": 4
         }
@@ -332,49 +332,49 @@ questions = [
         }
     },
     {
-       "description": "I am afraid of becoming close to someone and them wanting too much from me.",
+       "description": "I can be a bit stingy with my time.",
         "weights": {
             "Type 5": 4
         }
     },
     {
-       "description": "When stressed I become arrogant and competitive with others.",
+       "description": "I am instinctively aware of the risks in any situation.",
         "weights": {
             "Type 6": 4
         }
     },
     {
-       "description": "I double-check my ideas by bouncing them off of others and editing them based on what they say.",
+       "description": "I double-check my ideas by sharing them with others to gauge their thoughts and reactions.",
         "weights": {
             "Type 6": 4
         }
     },
     {
-       "description": "I have issues figuring out how I should react, often either over or under-reacting.",
+       "description": "Preparedness is important to me.",
         "weights": {
             "Type 6": 4
         }
     },
     {
-       "description": "I secretly test people I have suspicions of.",
+       "description": "I am skeptical of others.",
         "weights": {
             "Type 6": 4
         }
     },
     {
-       "description": "I am committed to anything I do.",
+       "description": "I need something or someone to believe in.",
         "weights": {
             "Type 6": 4
         }
     },
     {
-       "description": "I am suspicious of others.",
+       "description": "I tend to doubt myself.",
         "weights": {
             "Type 6": 4
         }
     },
     {
-       "description": "I have problems trusting myself.",
+       "description": "I can easily see what bonds different people together.",
         "weights": {
             "Type 6": 4
         }
@@ -392,25 +392,25 @@ questions = [
         }
     },
     {
-       "description": "I am afraid of being alone.",
+       "description": "I can be indecisive.",
         "weights": {
             "Type 6": 4
         }
     },
     {
-       "description": "I have issues with being indecisive.",
+       "description": "I live my life by either an internal or external set of rules.",
         "weights": {
             "Type 6": 4
         }
     },
     {
-       "description": "I’m afraid of missing out on things.",
+       "description": "I have a fear of missing out that tends to cause me to jump into things under-prepared.",
         "weights": {
             "Type 7": 4
         }
     },
     {
-       "description": "When stressed I become critical and perfectionistic.",
+       "description": "I am adventurous.",
         "weights": {
             "Type 7": 4
         }
@@ -428,7 +428,7 @@ questions = [
         }
     },
     {
-       "description": "I want to try everything out because I don’t know what I actually want.",
+       "description": "I want to try out everything because it’s not clear to me what thing I actually want.",
         "weights": {
             "Type 7": 4
         }
@@ -440,7 +440,7 @@ questions = [
         }
     },
     {
-       "description": "I can turn any situation into something positive.",
+       "description": "I can find the silver lining in any situation.",
         "weights": {
             "Type 7": 4
         }
@@ -452,37 +452,37 @@ questions = [
         }
     },
     {
-       "description": "I have problems censoring myself.",
+       "description": "I fear boredeom.",
         "weights": {
             "Type 7": 4
         }
     },
     {
-       "description": "My feelings change quickly.",
+       "description": "My words tend to come out faster than my thoughts.",
         "weights": {
             "Type 7": 4
         }
     },
     {
-       "description": "I frequently have buyer's regret.",
+       "description": "I tend to learn as I go.",
         "weights": {
             "Type 7": 4
         }
     },
     {
-       "description": "Success is based on power and the amount of control you have.",
+       "description": "I tend to see things as either black or white.",
         "weights": {
             "Type 8": 4
         }
     },
     {
-       "description": "I am afraid of being used by others.",
+       "description": "I am decisive and move to action quickly.",
         "weights": {
             "Type 8": 4
         }
     },
     {
-       "description": "When stressed I become secretive and paranoid.",
+       "description": "I can be intimidating to others.",
         "weights": {
             "Type 8": 4
         }
@@ -494,13 +494,13 @@ questions = [
         }
     },
     {
-       "description": "Others can mistake my passion for anger.",
+       "description": "I prefer to be the boss or leader in groups.",
         "weights": {
             "Type 8": 4
         }
     },
     {
-       "description": "I think other people are too sensitive.",
+       "description": "I need to be strong and forceful to protect others.",
         "weights": {
             "Type 8": 4
         }
@@ -512,7 +512,7 @@ questions = [
         }
     },
     {
-       "description": "I have issues being vulnerable.",
+       "description": "If I want something, I will get it without feeling shame or guilt.",
         "weights": {
             "Type 8": 4
         }
@@ -524,13 +524,13 @@ questions = [
         }
     },
     {
-       "description": "I can be confrontational.",
+       "description": "Conflict energizes me.",
         "weights": {
             "Type 8": 4
         }
     },
     {
-       "description": "I become very protective over what is valuable to me.",
+       "description": "I am grounded and practical.",
         "weights": {
             "Type 8": 4
         }
@@ -542,13 +542,13 @@ questions = [
         }
     },
     {
-        "description": "It’s hard for me to go from relaxation to activity.",
+        "description": "I am easy-going.",
         "weights": {
             "Type 9": 4
         }
     },
     {
-        "description": "When stressed I’m more anxious and reactive.",
+        "description": "I prefer to go along with what others are doing instead of forming my own agenda.",
         "weights": {
             "Type 9": 4
         }
@@ -560,44 +560,44 @@ questions = [
         }
     },
     {
-        "description": "My facial expression around others is typically a “flat” smile.",
+        "description": "I tend to fade into the background in social settings.",
         "weights": {
             "Type 9": 4
         }
     },
     {
-        "description": "I have issues with becoming motivated.",
+        "description": "I have a difficult time becoming motivated.",
         "weights": {
             "Type 9": 4
 
         }
     },
     {
-        "description": "I have issues with details, preferring to look at impressions and generalities instead.",
+        "description": "I see most things as a series of impressions.",
         "weights": {
             "Type 9": 4
         }
     },
     {
-        "description": "I find it easiest to describe myself by comparing myself to other people and their qualities.",
+        "description": "I instinctively notice commonalities.",
         "weights": {
             "Type 9": 4
         }
     },
     {
-       "description": "My thoughts can be inconsistent.",
+       "description": "I soak up others’ habits, emotions, interests, and characteristics as my own.",
         "weights": {
             "Type 9": 4
         }
     },
     {
-       "description": "I have issues forgetting my agenda in favor of others’ plans.",
+       "description": "I am open and accepting.",
         "weights": {
             "Type 9": 4
         }
     },
     {
-       "description": "I remain very calm when in any kind of pain.",
+       "description": "I can easily tune out emotional pain.",
         "weights": {
             "Type 9": 4
         }
